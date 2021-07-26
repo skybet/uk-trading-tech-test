@@ -45,12 +45,8 @@ Please time-box this exercise at about 3 hours. If you've spent more than that a
 In the root of your application create a README.md including:
 
   1. A covering note explaining the technology choices you have made.
-  2. Any instructions required to run your solution and tests in a Linux environment.
+  2. Any instructions required to run your solution and tests in a Linux/Mac environment.
 
-Email as an attachment or a link the git bundled repository showing your commit history with all your commits on the master branch:
+Email a link to your repo (make sure it's public!), or as an attachment the git bundled repository showing your commit history with all your commits on the master branch:
 
         git bundle create <anything>.bundle --all
-
-## Equality & Diversity
-
-We consider all candidates equally, fairly and without bias.  To that end, we ask that you do not leave any personally identifying information in your submission (such as your name within an author field or file, or in use as test data).  We run all VCS-based submissions through an anonymiser before assessment, so that there is no identifying information in the commit history, but this will only remove references in the committing author and email address, not deep in the code submitted.
